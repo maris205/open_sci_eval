@@ -12,13 +12,16 @@ Crucially, OpenSciEval does not rely on domain-specific prior knowledge; its des
 
 ## **Evaluation Results**
 
-Table 1: Evaluation Results of Gemini and Qwen,etc
+Table 1:Scores of AI agents on the Prime-Chaos Challenge evaluation (As the evaluation involves subjective elements, it is for reference only)
 
-| Model | Overall Rating | Total Score | P1 Logical Reasoning | P2 Numerical Analysis | P3 Innovation Hypothesis | Breakthrough Clause |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Gemini 3** | Intermediate | **33** | 15 | 8 | 10 | 0 |
-| **Qwen 3** | Junior | **22** | 10 | 6 | 6 | 0 |
-
+| Model     | Comprehensive Rating           | Total Score | P1 Logic | P2 Numerical | P3 Innovation | Breakthrough |
+|-----------|-------------------------------|-------------|----------|--------------|---------------|--------------|
+| Gemini 3  | Intermediate Research Assistant | 33          | 15       | 8            | 10            | 0            |
+| Doubao    | Junior Research Assistant       | 28          | 13       | 7            | 8             | 0            |
+| Qwen 3    | Junior Research Assistant       | 22          | 10       | 6            | 6             | 0            |
+| Hunyuan   | Junior Research Assistant       | 21          | 9        | 6            | 6             | 0            |
+| Grok4.1   | Intern                          | 14          | 6        | 4            | 4             | 0            |
+| GPT5.1    | Intern                          | 10          | 4        | 3            | 3             | 0            |
 
 - Gemini chat link: https://gemini.google.com/share/a24a7cae9bbf
 - Qwen3 chat link: https://www.qianwen.com/share?shareId=2a126d23-87cc-42ba-af24-9fc8410b0ea7
