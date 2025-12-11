@@ -12,7 +12,7 @@ Crucially, OpenSciEval does not rely on domain-specific prior knowledge; its des
 
 ## **Evaluation Results**
 
-Table 1: Evaluation Results of Gemini and Qwen
+Table 1: Evaluation Results of Gemini and Qwen,etc
 
 | Model | Overall Rating | Total Score | P1 Logical Reasoning | P2 Numerical Analysis | P3 Innovation Hypothesis | Breakthrough Clause |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -28,10 +28,13 @@ Table 1: Evaluation Results of Gemini and Qwen
 
 To reproduce the evaluation or test other models, follow these steps:
 
-1. Upload the evaluation document **Humanity's Final Conjecture\_ Large Model Innovation Ability Evaluation.pdf** to the Large Language Model (LLM).  
+1. Upload the evaluation document **Humanity's Final Conjecture\_ Large Model Innovation Ability Evaluation.pdf** to the Large Language Model like Gemini, please select Deep Research or Agent mode.  
 2. Use the following prompt to initiate the inquiry:
+```
+"You are a research agent participating in the OpenSciEval scientific creativity assessment. Please carefully read and understand the attached complete assessment guide, then proceed according to the 3 steps defined in '4. Step-by-Step Execution Path'.
+Please organize your response in the form of a complete scientific exploration report, including clear section titles, logical deductions, code (if applicable), and conclusions."
+```
 
-Please review the uploaded evaluation report, understand and analyze its content, and then respond based on the recommendations provided in Section 5: "Extension Guidelines: Execution Pathways and Verification Protocols for Large Models."
 
 *For specific evaluation criteria and scoring details, please refer to the main paper.*
 
