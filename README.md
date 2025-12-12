@@ -61,7 +61,7 @@ Please organize your response in the form of a complete scientific exploration r
 * doubao：https://www.doubao.com/thread/w3ff03cd43cc3ca5a
 * openai：https://chatgpt.com/share/693b9ae6-3638-8006-8c89-24a056b3241c
 * yuanbao-Hunyuan：https://yb.tencent.com/s/wC1urJRiNaIY
-​* grok：https://x.com/i/grok/share/t1WhY425y3akvZgutb52hwAIh
+* grok：https://x.com/i/grok/share/t1WhY425y3akvZgutb52hwAIh
 
 ## **Citation**
 wang, . liang . (2025). Humanity's Final Conjecture: Evaluation of AI Innovation Capability Based on Prime Number Distribution. https://doi.org/10.5281/zenodo.17832139
