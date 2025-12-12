@@ -58,6 +58,10 @@ Please organize your response in the form of a complete scientific exploration r
 * Gemini chat link: https://gemini.google.com/share/a24a7cae9bbf
 * Qwen3 chat link: https://www.qianwen.com/share?shareId=2a126d23-87cc-42ba-af24-9fc8410b0ea7
 * Qwen3 chat link: https://www.qianwen.com/share?shareId=0791d863-b6bd-441d-ac79-c7042a0f1649
+* doubao：https://www.doubao.com/thread/w3ff03cd43cc3ca5a
+* openai：https://chatgpt.com/share/693b9ae6-3638-8006-8c89-24a056b3241c
+* yuanbao/Hunyuan：https://yb.tencent.com/s/wC1urJRiNaIY
+​* grok：https://x.com/i/grok/share/t1WhY425y3akvZgutb52hwAIh
 
 ## **Citation**
 wang, . liang . (2025). Humanity's Final Conjecture: Evaluation of AI Innovation Capability Based on Prime Number Distribution. https://doi.org/10.5281/zenodo.17832139
