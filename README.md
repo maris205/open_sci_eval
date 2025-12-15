@@ -38,6 +38,7 @@ Please organize your response in the form of a complete scientific exploration r
 
 ## **Prime–Chaos Challenge**
 To construct a physical model of prime number distribution, we establish a logical chain from arithmetic sieves to nonlinear dynamics: first, we transform the static sieving process into a dynamic symbolic sequence, and then, using symbolic dynamics theory, map it onto trajectories of a low-dimensional chaotic attractor
+<img src='prime_chaos.png' />
 
 ## **Surprising results of Gemini3 Pro**
 In testing, Gemini 3 Pro demonstrated exceptional insight and experimental design capabilities, provided clear directions for extension, and constructed a complete framework of prime-number chaotic dynamics along with numerical validation results, as detailed in the table below:
