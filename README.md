@@ -2,13 +2,26 @@
 
 ## **Abstract**
 
-Large language models (LLMs) have demonstrated superhuman performance across diverse tasks in mathematics, programming, biology, and beyond. However, whether they possess *original scientific creativity*—the ability to propose novel concepts, forge cross-domain connections, and generate testable hypotheses—remains inadequately assessed. Existing benchmarks primarily focus on knowledge recall or closed-form reasoning, failing to capture the divergent thinking and abductive inference essential to scientific discovery.  
+Current AI evaluations largely focus on knowledge recall, making it difficult to measure the original scientific creativity required to propose novel concepts and forge cross-domain connections. To address this, we introduce OpenSciEval (OSE), an open-ended evaluation framework designed to quantify AI's evolution from mere problem-solver to researcher. In our inaugural "Prime–Chaos Challenge," frontier models like Gemini and Qwen not only established non-trivial links between arithmetic and dynamics but also spontaneously introduced physics-inspired concepts to interpret mathematical structures, demonstrating remarkable potential for scientific modeling. Independent of domain-specific priors, OSE offers a universal, standardized tool for tracking AI's scientific creativity across disciplines.
 
-To address this gap, we introduce **OpenSciEval (OSE)**, an open-ended and extensible evaluation framework designed to quantify the creative scientific capabilities of AI agents. OSE employs carefully crafted open-domain scientific challenges that require models—without explicit supervision—to autonomously construct conceptual bridges, formulate explanatory mechanisms, and produce novel insights.  
+## **Prime–Chaos Challenge**
+To construct a physical model of prime number distribution, we establish a logical chain from arithmetic sieves to nonlinear dynamics: first, we transform the static sieving process into a dynamic symbolic sequence, and then, using symbolic dynamics theory, map it onto trajectories of a low-dimensional chaotic attractor
+<img src='prime_chaos.png' />
 
-As the first OSE case study, we present the **“Prime–Chaos Challenge,”** which tasks models with establishing a nontrivial connection between Peano arithmetic and symbolic dynamics. Empirical evaluations reveal that state-of-the-art models (e.g., Gemini and Qwen) not only succeed in the task but also spontaneously introduce physics-inspired constructs—such as an “effective horizon”—to interpret purely mathematical structures, demonstrating nascent scientific modeling capacity.  
+## **Surprising results of Gemini3 Pro**
+In testing, Gemini 3 Pro demonstrated exceptional insight and experimental design capabilities, provided clear directions for extension, and constructed a complete framework of prime-number chaotic dynamics along with numerical validation results, as detailed in the table below:
 
-Crucially, OpenSciEval does not rely on domain-specific prior knowledge; its design principles are transferable to physics, chemistry, life sciences, and other disciplines. By providing a general, reproducible metric, OSE offers a foundational tool for tracking AI’s evolution from *problem-solver* to *researcher*.
+Table 1: Comparison of Stochastic Models and Chaotic Dynamic Models in Simulating Prime Distribution Characteristics
+
+| Feature Dimension | Real Primes (Ground Truth) | Traditional Stochastic Model (Cramér Model) | This Chaos Model (Logistic + Aging) |
+| :--- | :--- | :--- | :--- |
+| **1. Core Mechanism** | Arithmetic Sieve | Random Dice Throwing | Deterministic Chaotic Orbit |
+| **2. Microscopic Structure** | Discrete Needle Spectrum | ❌ Smooth Exponential Curve | ✅ Discrete Needle Spectrum |
+| **3. Parity Rigidity** | Strictly Even Gaps | ❌ None (Allows Odd) | ✅ Spontaneously Emergent (No Odd) |
+| **4. Memory Properties** | Short-range Repulsion (Lag-1 < 0) | ❌ No Memory (Lag-1 = 0) | ✅ Short-range Repulsion (Lag-1 < 0) |
+| **5. Twin Events** | Critical Intermittency (Power Law) | ❌ Poisson Process (Exponential Law) | ✅ Critical Intermittency (Power Law) |
+| **6. Dynamic Classification** | Weak Chaos ($\lambda \approx 0.1$) | ❌ White Noise ($\lambda \to \infty$) | ✅ Weak Chaos ($\lambda \approx 0.1$) |
+| **7. Quantitative Verification** | Twin Constant 0.66016... | ⚠️ Requires Manual Correction | ✅ Naturally Converges to 0.66... |
 
 ## **Evaluation Results**
 
@@ -36,24 +49,6 @@ Please organize your response in the form of a complete scientific exploration r
 ```
 *For specific evaluation criteria and scoring details, please refer to the main paper.*
 
-## **Prime–Chaos Challenge**
-To construct a physical model of prime number distribution, we establish a logical chain from arithmetic sieves to nonlinear dynamics: first, we transform the static sieving process into a dynamic symbolic sequence, and then, using symbolic dynamics theory, map it onto trajectories of a low-dimensional chaotic attractor
-<img src='prime_chaos.png' />
-
-## **Surprising results of Gemini3 Pro**
-In testing, Gemini 3 Pro demonstrated exceptional insight and experimental design capabilities, provided clear directions for extension, and constructed a complete framework of prime-number chaotic dynamics along with numerical validation results, as detailed in the table below:
-
-Table 1: Comparison of Stochastic Models and Chaotic Dynamic Models in Simulating Prime Distribution Characteristics
-
-| Feature Dimension | Real Primes (Ground Truth) | Traditional Stochastic Model (Cramér Model) | This Chaos Model (Logistic + Aging) |
-| :--- | :--- | :--- | :--- |
-| **1. Core Mechanism** | Arithmetic Sieve | Random Dice Throwing | Deterministic Chaotic Orbit |
-| **2. Microscopic Structure** | Discrete Needle Spectrum | ❌ Smooth Exponential Curve | ✅ Discrete Needle Spectrum |
-| **3. Parity Rigidity** | Strictly Even Gaps | ❌ None (Allows Odd) | ✅ Spontaneously Emergent (No Odd) |
-| **4. Memory Properties** | Short-range Repulsion (Lag-1 < 0) | ❌ No Memory (Lag-1 = 0) | ✅ Short-range Repulsion (Lag-1 < 0) |
-| **5. Twin Events** | Critical Intermittency (Power Law) | ❌ Poisson Process (Exponential Law) | ✅ Critical Intermittency (Power Law) |
-| **6. Dynamic Classification** | Weak Chaos ($\lambda \approx 0.1$) | ❌ White Noise ($\lambda \to \infty$) | ✅ Weak Chaos ($\lambda \approx 0.1$) |
-| **7. Quantitative Verification** | Twin Constant 0.66016... | ⚠️ Requires Manual Correction | ✅ Naturally Converges to 0.66... |
 
 ## **File Descriptions**
 
