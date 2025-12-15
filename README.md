@@ -23,6 +23,9 @@ Table 1: Comparison of Stochastic Models and Chaotic Dynamic Models in Simulatin
 | **6. Dynamic Classification** | Weak Chaos ($\lambda \approx 0.1$) | ❌ White Noise ($\lambda \to \infty$) | ✅ Weak Chaos ($\lambda \approx 0.1$) |
 | **7. Quantitative Verification** | Twin Constant 0.66016... | ⚠️ Requires Manual Correction | ✅ Naturally Converges to 0.66... |
 
+* Detailed Gemini 3 Pro Research Report. wang, . liang . (2025). The Emergence of Prime Distribution from Low-Dimensional Deterministic Chaos (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17939240
+
+
 ## **Evaluation Results**
 
 Table 1:Scores of AI agents on the Prime-Chaos Challenge evaluation (As the evaluation involves subjective elements, it is for reference only)
