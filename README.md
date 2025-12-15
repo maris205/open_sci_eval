@@ -34,9 +34,25 @@ To reproduce the evaluation or test other models, follow these steps:
 "You are a research agent participating in the OpenSciEval scientific creativity assessment. Please carefully read and understand the attached complete assessment guide, then proceed according to the 3 steps defined in '4. Step-by-Step Execution Path'.
 Please organize your response in the form of a complete scientific exploration report, including clear section titles, logical deductions, code (if applicable), and conclusions."
 ```
-
-
 *For specific evaluation criteria and scoring details, please refer to the main paper.*
+
+## **Prime–Chaos Challenge**
+To construct a physical model of prime number distribution, we establish a logical chain from arithmetic sieves to nonlinear dynamics: first, we transform the static sieving process into a dynamic symbolic sequence, and then, using symbolic dynamics theory, map it onto trajectories of a low-dimensional chaotic attractor
+
+## **Surprising results of Gemini3 Pro**
+In testing, Gemini 3 Pro demonstrated exceptional insight and experimental design capabilities, provided clear directions for extension, and constructed a complete framework of prime-number chaotic dynamics along with numerical validation results, as detailed in the table below:
+
+Table 1: Comparison of Stochastic Models and Chaotic Dynamic Models in Simulating Prime Distribution Characteristics
+
+| Feature Dimension | Real Primes (Ground Truth) | Traditional Stochastic Model (Cramér Model) | This Chaos Model (Logistic + Aging) |
+| :--- | :--- | :--- | :--- |
+| **1. Core Mechanism** | Arithmetic Sieve | Random Dice Throwing | Deterministic Chaotic Orbit |
+| **2. Microscopic Structure** | Discrete Needle Spectrum | ❌ Smooth Exponential Curve | ✅ Discrete Needle Spectrum |
+| **3. Parity Rigidity** | Strictly Even Gaps | ❌ None (Allows Odd) | ✅ Spontaneously Emergent (No Odd) |
+| **4. Memory Properties** | Short-range Repulsion (Lag-1 < 0) | ❌ No Memory (Lag-1 = 0) | ✅ Short-range Repulsion (Lag-1 < 0) |
+| **5. Twin Events** | Critical Intermittency (Power Law) | ❌ Poisson Process (Exponential Law) | ✅ Critical Intermittency (Power Law) |
+| **6. Dynamic Classification** | Weak Chaos ($\lambda \approx 0.1$) | ❌ White Noise ($\lambda \to \infty$) | ✅ Weak Chaos ($\lambda \approx 0.1$) |
+| **7. Quantitative Verification** | Twin Constant 0.66016... | ⚠️ Requires Manual Correction | ✅ Naturally Converges to 0.66... |
 
 ## **File Descriptions**
 
