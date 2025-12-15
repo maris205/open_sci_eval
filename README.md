@@ -65,6 +65,8 @@ Table 1: Comparison of Stochastic Models and Chaotic Dynamic Models in Simulatin
   * *The material used for testing the LLMs (upload this file to the AI).*  
 * **Test Content (Chinese):** AI智能体创新能力评测指南-OSE.prime_chaos.v1.pdf 
   * *The Chinese version of the test material.*
+* **Gemini Results:** gemini result-The Emergence of Prime Distribution from Low-Dimensional Deterministic Chaos.pdf
+  * *Test results of Gemini 3 Pro.*
 
 ### **Code**
 
@@ -81,4 +83,6 @@ Table 1: Comparison of Stochastic Models and Chaotic Dynamic Models in Simulatin
 * grok：https://x.com/i/grok/share/t1WhY425y3akvZgutb52hwAIh
 
 ## **Citation**
-wang, . liang . (2025). Humanity's Final Conjecture: Evaluation of AI Innovation Capability Based on Prime Number Distribution. https://doi.org/10.5281/zenodo.17832139
+* Evaluation Guidelines for prime chaos problem. wang, . liang . (2025). Humanity's Final Conjecture: Evaluation of AI Innovation Capability Based on Prime Number Distribution. https://doi.org/10.5281/zenodo.17832139
+* Evaluation Methodology.  wang, . liang . (2025). OpenSciEval: An Open-Ended Framework for Evaluating Scientific Creativity in AI Agents (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17926196
+* Gemini 3 Pro Research Report.  wang, . liang . (2025). The Emergence of Prime Distribution from Low-Dimensional Deterministic Chaos (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17939240
