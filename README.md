@@ -57,9 +57,9 @@ Please organize your response in the form of a complete scientific exploration r
 
 ### **Documents**
 
-* **Main Paper:** paper-Humanity's Final Conjecture\_ Evaluation of AI Innovation Capability Based on Prime Number Distribution.pdf  
+* **Main Paper:** OpenSciEval-An Open-Ended Framework for Evaluating Scientific Creativity in AI Agents.pdf 
   * *The core research paper detailing the theory and evaluation framework.*  
-* **Test Content (English):** Guide for Evaluating the Innovative Capabilities of AI Agents-OSE.prime_chaos.v1.pdf 
+* **Test Content (English):** Guide for Evaluating the Innovative Capabilities of AI Agents-OSE.prime_chaos.v1.pdf
   * *The material used for testing the LLMs (upload this file to the AI).*  
 * **Test Content (Chinese):** AI智能体创新能力评测指南-OSE.prime_chaos.v1.pdf 
   * *The Chinese version of the test material.*
