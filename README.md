@@ -73,6 +73,7 @@ Please organize your response in the form of a complete scientific exploration r
 
 ### **Chat link**
 * Gemini chat link: https://gemini.google.com/share/a24a7cae9bbf
+* Gemini chat link: https://gemini.google.com/share/b2b4e7af0653
 * Qwen3 chat link: https://www.qianwen.com/share?shareId=2a126d23-87cc-42ba-af24-9fc8410b0ea7
 * Qwen3 chat link: https://www.qianwen.com/share?shareId=0791d863-b6bd-441d-ac79-c7042a0f1649
 * doubao：https://www.doubao.com/thread/w3ff03cd43cc3ca5a
