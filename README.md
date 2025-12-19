@@ -88,6 +88,8 @@ The Acknowledgements section describes the Agent's contribution.
 
 Liang Wang. The Emergence of Prime Distribution from Low-Dimensional Deterministic Chaos, 18 December 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-8394349/v1]
 
+Code in paper_code
+
 ## **Citation**
 * Evaluation Guidelines for prime chaos problem. wang, . liang . (2025). Humanity's Final Conjecture: Evaluation of AI Innovation Capability Based on Prime Number Distribution. https://doi.org/10.5281/zenodo.17832139
 * Evaluation Methodology.  wang, . liang . (2025). OpenSciEval: An Open-Ended Framework for Evaluating Scientific Creativity in AI Agents (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17926196
