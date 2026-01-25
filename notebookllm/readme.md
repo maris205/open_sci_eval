@@ -1,3 +1,3 @@
 ## answer of notebookllm
--- ppt:
--- vidoe:
+- ppt:
+- vidoe:
