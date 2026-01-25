@@ -80,6 +80,7 @@ Please organize your response in the form of a complete scientific exploration r
 * openai：https://chatgpt.com/share/693b9ae6-3638-8006-8c89-24a056b3241c
 * yuanbao-Hunyuan：https://yb.tencent.com/s/wC1urJRiNaIY
 * grok：https://x.com/i/grok/share/t1WhY425y3akvZgutb52hwAIh
+* manus web answer: https://openscieval-3skz7jau.manus.space/
 
 ## **Submitted manuscript version**
 
