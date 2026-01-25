@@ -25,7 +25,7 @@ Table 1: Comparison of Stochastic Models and Chaotic Dynamic Models in Simulatin
 
 * Detailed Gemini 3 Pro Research Report. wang, . liang . (2025). The Emergence of Prime Distribution from Low-Dimensional Deterministic Chaos (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17939240
 
-[![Watch the video]](https://www.youtube.com/watch?v=dHvTcizsrac)
+[![Watch the video(video.png)]](https://www.youtube.com/watch?v=dHvTcizsrac)
 
 ## **Evaluation Results**
 
