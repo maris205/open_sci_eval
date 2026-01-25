@@ -1,4 +1,4 @@
-* am paper/src
+** AM paper/src
   
 - am-prime-chaos-v1.docx, word contain latex
 - Final_Paper_Fixed_v1, convert latex
